@@ -4,7 +4,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  background-image: url('https://soo7ag.by3302.livefilestore.com/y3mq8H3XoE_TzLXi5ivqsZmrhFXo1rrgnCgbmt3ZnPTFcx2NkpTkKCgmvERRyHsqcyqmrbHqaMVhYgPv3fW5OiWlCqErE55eMT9gekA2e3YFmr-SgJdEKHgYHvzbH6dTz1NBu1SfVBTZ8x2oi1IHkTJAyIQfu3LPJ1QMSiYA4edpqw?width=1920&height=1080&cropmode=none');
+  background-image: url('/public/img/aurora-007.jpg');
   background-attachment: fixed;
 }
 
@@ -161,7 +161,7 @@ legend {
   position: relative;
   padding: 20px;
   height: 500px;
-  background-image: url('https://reo0iw.by3302.livefilestore.com/y3mH3U_9Rn0F1cRm1ERr35Bua3PBIbu7D0lUVynNBlpvA9FXmtP-Qr8P0SF9r8dNzCfZAT6toR8m_mRgYI_f9m6GarLjUZA_u3XeioXCbjtiUvSInjDJGCNd7qARMZMGqlqG4djK8twzDGRjy7AApDEL4gVu6VYh5ac3CJ_zYFhJ5c?width=1920&height=1297&cropmode=none');
+  background-image: url('/public/img/floral_background.png');
   opacity: 0.9;
 }
 
@@ -365,7 +365,7 @@ legend {
   border: none;
   height: 1000px;
   width:100%;
-  background-image: url('https://soo7ag.by3302.livefilestore.com/y3mq8H3XoE_TzLXi5ivqsZmrhFXo1rrgnCgbmt3ZnPTFcx2NkpTkKCgmvERRyHsqcyqmrbHqaMVhYgPv3fW5OiWlCqErE55eMT9gekA2e3YFmr-SgJdEKHgYHvzbH6dTz1NBu1SfVBTZ8x2oi1IHkTJAyIQfu3LPJ1QMSiYA4edpqw?width=1920&height=1080&cropmode=none');
+  background-image: url('/public/img/aurora-007.jpg');
   background-attachment: fixed;
 }
 
@@ -375,7 +375,7 @@ legend {
   position: absolute;
   opacity: 0;
   z-index:2;
-  background-image: url('https://reo7ag.by3302.livefilestore.com/y3mZsZbxxWdES9pulvj8xIRKWxuZeGUtXi3BANy9cOR8nVT49l5C_ww902tyFhBdHyL89Zx5qcEP2NgkOdX2fiEJyw41hfn7v1BJAzHFM8kL2URiQD3jOs8FLO8MRQf7hrO_BnqfhKYEXNrvSFiJ3eORIZLx_aF5GHVNRnWBzgwP5c?width=1920&height=1080&cropmode=none');
+  background-image: url('/public/img/aurora-extra-stars.jpg');
   background-attachment: fixed;
 }
 
@@ -385,7 +385,7 @@ legend {
   position: absolute;
   z-index: 3;
   opacity: 0;
-  background-image: url('https://ruo7ag.by3302.livefilestore.com/y3ma5cWLisfPxmtYZcRPTCHSVZCLEXYcT6rIcxu06LUCd_4oV9mANIl_iy7fo0oAl1ixTdA0sl2A9dBJbBf0Jk_UTGaPkEj35UtRmsu7k7FsLmLuLWF67wvXQIehynz_76hc2tVHIEQDw91JVsngSdjB4DC8yphZDmpxqwepvrCb_8?width=1920&height=1080&cropmode=none');
+  background-image: url('/public/img/aurora-extra-stars1.jpg');
   background-attachment: fixed;
 }
 
